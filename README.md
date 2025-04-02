@@ -58,7 +58,8 @@ This custom theme is designed for developers working in low-light environments, 
    - Save the file (Ctrl + S or Cmd + S).
    - Your theme will be applied immediately.
 
-## Made By Meet Chopra
+## Made By
+Crafted and care by **Meet Chopra**
 
 
 ### Contributing
