@@ -54,3 +54,18 @@ This custom theme is designed for developers working in low-light environments, 
            "titleBar.activeForeground": "#C8C8C8"
        }
    }
+3. **Save and Apply:**
+   - Save the file (Ctrl + S or Cmd + S).
+   - Your theme will be applied immediately.
+
+## Made By Meet Chopra
+
+
+### Contributing
+   If you have suggestions for improving this theme or would like to share your own 
+   modifications, feel free to submit a pull request or open an issue in this repository.
+
+### License
+   This theme is open-source and can be freely used, modified, and shared.
+
+Feel free to copy-paste this into your GitHub repository as your README.md file. Let me know if you need further edits or adjustments! 🚀
