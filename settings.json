@@ -1,0 +1,41 @@
+{
+    "workbench.colorCustomizations": {
+        // Editor
+        "editor.background": "#10161F",
+        "editor.foreground": "#C8C8C8",
+        "editorCursor.foreground": "#B0C4DE",
+        "editor.lineHighlightBackground": "#1A212A",
+        "editor.selectionBackground": "#222C36",
+        "editorIndentGuide.activeBackground": "#374455",
+        "editorBracketHighlight.foreground1": "#4E5D6A",
+        "editorBracketHighlight.foreground2": "#6B8099",
+        "editorBracketHighlight.foreground3": "#8FA5B8",
+        "editor.tag.foreground": "#C08170",
+        "editor.attribute.foreground": "#A1B8E3",
+
+        // Tab Bar
+        "editorGroupHeader.tabsBackground": "#10161F",
+        "tab.activeBackground": "#10161F",
+        "tab.activeForeground": "#D4D4D4",
+        "tab.inactiveBackground": "#0E141A",
+        "tab.inactiveForeground": "#6D6D6D",
+        "tab.hoverBackground": "#192530",
+        "tab.border": "#243845",
+
+        // Sidebar
+        "sideBar.background": "#0E141A",
+        "sideBar.foreground": "#C8C8C8",
+
+        // Activity Bar
+        "activityBar.background": "#10161F",
+        "activityBar.foreground": "#D4D4D4",
+
+        // Status Bar
+        "statusBar.background": "#10161F",
+        "statusBar.foreground": "#C8C8C8",
+
+        // Title Bar
+        "titleBar.activeBackground": "#10161F",
+        "titleBar.activeForeground": "#C8C8C8"
+    }
+}
